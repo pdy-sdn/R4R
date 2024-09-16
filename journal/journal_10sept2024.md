@@ -5,13 +5,15 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
-In the last session, we discussed various topics of FOSS.
+In the last session, we discussed various topics of FOSS. I was particulary fascinated by the difference shcool of thoughts on Why do Open Science.
+
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
+Currently we don't have an up to date website for our lab. I would like to develop a new website or update an old website where we could disseminate information about our ongoing research projects, completed research projects, etc. One challenge in this is we might not want to give way too much information on some ongoing projects.
 
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
-Using GitHub.
+Nothing in particular at this point.
 
 ## Partner Discussions
 
