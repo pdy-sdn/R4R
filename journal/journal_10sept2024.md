@@ -6,12 +6,18 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
+On the second week of FOSS session, DMP was a highlight for me. Although, we do a bit of data management, we necessarity don't have a written road map for the data management. My research invloves with doing several laboratory testing and analytical simulations, resulting different data types; numerical data,figures, videos, and plots. I am looking forward to implement DMP in my current project. It was interesting to learn about difference license types. Personally, I've used figshare to share the photos and videos. At that time I used CC by 4.0 license type. I am interested to learn more on the difrerences betwen various license types.
+
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
+
+Definelty, the DMP, I would like to prepare a DMP for my ongoing project.
 
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
 
+
+I wasn't clear on the differences on FAIR and CARE principles. I probably need to read on those topics.
 ## Partner Discussions
 
 During the in-person Tuesday session, you will be paired with another fellow to get to know them and also discuss a FOSS topic. Please introduce yourself to your partner and briefly talk about your field of study and projects. 
